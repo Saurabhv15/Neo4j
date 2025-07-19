@@ -8,8 +8,15 @@ The aim of this project is to build a simple **Movie Genre Knowledge Graph** tha
 - Represents movies as nodes
 - Connects them to genres using relationships
 - Enables graph-based querying and visualization
+---
 
-This project showcases my hands-on experience with Neo4j and Cypher queries using Python. It is part of my journey to becoming a [Neo4j Certified Professional](https://graphacademy.neo4j.com/certifications/neo4j-certification/).
+## 📜 Certificate
+
+I have completed the **Neo4j Certified Professional certification**.
+
+🔗 [Credential Link](https://graphacademy.neo4j.com/c/8b4fff09-4bb7-4fb5-9761-2f5964129f81/)
+
+---
 
 ## 📊 Visual Output
 
